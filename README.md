@@ -1,3 +1,3 @@
 # BigInteger-Rational
 
-One of the assignments from a C++ course in MIPT.
+One of the assignments from a C++ course at MIPT.
